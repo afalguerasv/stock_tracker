@@ -7,8 +7,8 @@
 node_modules/
 dist/
 
-# Compiled Java class files
-*.class
+# Tests
+test_conn.py
 
 # Compiled Python bytecode
 *.py[cod]
@@ -19,9 +19,8 @@ dist/
 # Package files
 *.jar
 
-# Maven
-target/
-dist/
+# Config
+config/
 
 # JetBrains IDE
 .idea/
@@ -47,4 +46,6 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+
 
